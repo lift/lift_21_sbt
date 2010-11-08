@@ -2,9 +2,9 @@ Install Java, Simple Build Tool, and Git
 
 Clone this repository with:
 
-git clone git://github.com/dpp/lift_sbt_prototype.git
+git clone https://github.com/lift/lift_21_sbt.git
 
-Then cd into lift_sbt_prototype and type:
+Then cd into lift_21_sbt and type:
 sbt
 
 At the sbt prompt, type:
